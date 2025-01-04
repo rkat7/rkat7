@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Rohith 👋
+# Hey 👋, I'm Rohith 
 <h4 align="center"> <i>Always cooking – sometimes in the kitchen, sometimes in code.</i> </h4>
 
 <p align="center">

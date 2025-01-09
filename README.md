@@ -15,7 +15,7 @@
 <p align="center">
   🚀 Building systems that work seamlessly and solve real problems keeps me inspired every day.<br>
   🔧 Always tinkering with new ideas and technologies.<br>
-  🌱 I believe in KISS (Keep It Simple, Stupid), but I also know when complexity is the smarter choice.
+  🌱 I believe in KISS (Keep It Simple, Stupid), but I also understand when complexity is the smarter choice.
 </p>
 
 

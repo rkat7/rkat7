@@ -4,9 +4,8 @@
 
 
 
-- I’m fascinated by distributed systems, frontier AI, and large-scale application architectures.  
-- Ask me about high-performance, fault-tolerant systems and robust backend design.  
-- Fun fact: I love combining cutting-edge research with hands-on product development.
+- I’m into distributed systems, frontier AI, and large-scale application architectures.  
+- Ask me about high-performance, fault-tolerant systems and robust backend design. 
 
 ---
 
